@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.07f2cf5a.css",
+    "main.js": "/website/static/js/main.3d6f43c7.js",
+    "static/js/787.c9fd1f87.chunk.js": "/website/static/js/787.c9fd1f87.chunk.js",
+    "static/media/Healthcare.md": "/website/static/media/Healthcare.c583875bc3a717832453.md",
+    "static/media/Quantam.md": "/website/static/media/Quantam.9cdec52e60991eb52b9e.md",
+    "index.html": "/website/index.html",
+    "main.07f2cf5a.css.map": "/website/static/css/main.07f2cf5a.css.map",
+    "main.3d6f43c7.js.map": "/website/static/js/main.3d6f43c7.js.map",
+    "787.c9fd1f87.chunk.js.map": "/website/static/js/787.c9fd1f87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f2cf5a.css",
+    "static/js/main.3d6f43c7.js"
+  ]
+}
